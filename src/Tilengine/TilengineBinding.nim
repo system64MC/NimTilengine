@@ -174,7 +174,7 @@ when not declared(structobjectlist):
 else:
   static :
     hint("Declaration of " & "struct_ObjectList" &
-        " already exists, not redeclaring")
+        " already exists, not redeclaring") 
 type
   Tlnsequencepack_27263297* = ptr structsequencepack ## Generated based on C:/Users/USER/Documents/programmation/testTilengineNim/includes\Tilengine.h:269:30
   Tlntilemap_27263300* = ptr structtilemap ## Generated based on C:/Users/USER/Documents/programmation/testTilengineNim/includes\Tilengine.h:265:27
